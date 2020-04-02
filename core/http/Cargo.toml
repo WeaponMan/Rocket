@@ -22,7 +22,7 @@ private-cookies = ["cookie/secure"]
 smallvec = "1.0"
 percent-encoding = "1"
 hyper = { version = "0.10.13", default-features = false }
-time = "0.1"
+time = "0.2"
 indexmap = "1.0"
 rustls = { version = "0.14", optional = true }
 state = "0.4"
